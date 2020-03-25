@@ -1,4 +1,4 @@
-package com.coolweathe.android;
+package com.coolweather.android;
 
 import android.content.Context;
 
